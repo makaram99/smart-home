@@ -3,7 +3,7 @@
 <img alt="Creative Commons Licence" style="border-width:0" src="docs/logo.png" height="20"/>  <img src="https://img.shields.io/badge/license-Mit%20-blue" alt="license"/>  <img src="https://img.shields.io/github/v/release/makaram99/smart-home" alt="release"/>  <img src="https://img.shields.io/github/last-commit/makaram99/smart-home" alt="last commit"/>
 
 <p align="center">
-  <img height="300" src="docs/logo.png" alt="cute">
+  <img src="docs/logo.png">
 </p>
 
 ✅ Perform a review and leave a comment <a href="https://github.com/makaram99/smart-home/issues/1">here</a></strong>
@@ -33,7 +33,7 @@ Eng. Eman khiary Mohamed (emankhiry34@gmail.com): Embedded Software Engineer and
 
 This is a simple smart home system, done using **FreeRTOS** and **Atmega32** microcontroller.
 
-*The system  consists of the following functions:*
+*The system consists of the following functions:*
 
 1. Gas Sensor to sense the gas level in the house.
 2. Temperature Sensor to sense the temperature in the house.
@@ -161,11 +161,13 @@ To simulate the project, you need to:
 * Enjoy the simulation.
 * To stop the simulation: Press twice on **ESC** key from the keyboard.
 
-<img src="docs/simulation/simulation_proteus.BMP"/>
+<img src="docs/simulation/simulation_proteus.png"/>
 
 ---
 
 ## 🎯 Results
+
+NOTE: Click on the images below to start the animation.
 
 1. Testing Temperature:
   
