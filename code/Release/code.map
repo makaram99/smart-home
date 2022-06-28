@@ -1,0 +1,1481 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              ./main.o (__mulsi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./HAL/SERVO_M/SERVO_Program.o (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./HAL/HCLCD/HCLCD_Program.o (__udivmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./HAL/KEY_PAD/HKPD_Program.o (__do_copy_data)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL/TIMER2/TIMER2_Program.o (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./MCAL/TIMER2/TIMER2_Program.o (__fixunssfsi)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              ./MCAL/TIMER2/TIMER2_Program.o (__subsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./MCAL/TIMER2/TIMER2_Program.o (__mulsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./MCAL/TIMER2/TIMER2_Program.o (__divsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./HAL/SERVO_M/SERVO_Program.o (__floatunsisf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__clzsi2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o) (__fpcmp_parts_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+                              ./main.o (round)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o) (__fp_mintl)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o) (__fp_mpack)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o) (__fp_splitA)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o) (__fp_szero)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              ./Free_RTOS/queue.o (memcpy)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+                              ./Free_RTOS/tasks.o (memset)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              ./Free_RTOS/tasks.o (strncpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+TIMER0_CallBack     0x2               ./MCAL/TIMER/TIMER_Program.o
+TIMER2_CallBack     0x2               ./MCAL/TIMER2/TIMER2_Program.o
+MADC_CallBack       0x2               ./MCAL/MADC/MADC_Program.o
+ADC_Semaphore       0x2               ./main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .text          0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .data          0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .bss           0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text.TIMER2_VidInit
+                0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text.TIMER2_VidSetPreload
+                0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text.TIMER2_VidSetCTCValue
+                0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text.TIMER2_VidOVF_SetCallBack
+                0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text.TIMER2_VidCTC_SetCallBack
+                0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text.M_Pwm2Init
+                0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text.M_Pwm2SetDutyCycle
+                0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text.M_Pwm2Start
+                0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text.M_Pwm2Stop
+                0x00000000        0x0 ./MCAL/TIMER2/TIMER2_Program.o
+ .text          0x00000000        0x0 ./MCAL/TIMER/TIMER_Program.o
+ .data          0x00000000        0x0 ./MCAL/TIMER/TIMER_Program.o
+ .bss           0x00000000        0x0 ./MCAL/TIMER/TIMER_Program.o
+ .text.TIMER0_VidInit
+                0x00000000        0x0 ./MCAL/TIMER/TIMER_Program.o
+ .text.TIMER0_VidSetPreload
+                0x00000000        0x0 ./MCAL/TIMER/TIMER_Program.o
+ .text.TIMER0_VidSetCTCValue
+                0x00000000        0x0 ./MCAL/TIMER/TIMER_Program.o
+ .text.TIMER0_VidOVF_SetCallBack
+                0x00000000        0x0 ./MCAL/TIMER/TIMER_Program.o
+ .text.TIMER0_VidCTC_SetCallBack
+                0x00000000        0x0 ./MCAL/TIMER/TIMER_Program.o
+ .text          0x00000000        0x0 ./MCAL/MGIE/MGIE_Program.o
+ .data          0x00000000        0x0 ./MCAL/MGIE/MGIE_Program.o
+ .bss           0x00000000        0x0 ./MCAL/MGIE/MGIE_Program.o
+ .text.MGIE_VidDisable
+                0x00000000        0x0 ./MCAL/MGIE/MGIE_Program.o
+ .text          0x00000000        0x0 ./MCAL/MDIO/MDIO_Program.o
+ .data          0x00000000        0x0 ./MCAL/MDIO/MDIO_Program.o
+ .bss           0x00000000        0x0 ./MCAL/MDIO/MDIO_Program.o
+ .text.MDIO_Error_State_SetPortDirection
+                0x00000000        0x0 ./MCAL/MDIO/MDIO_Program.o
+ .text.MDIO_Error_State_SetPortValue
+                0x00000000        0x0 ./MCAL/MDIO/MDIO_Program.o
+ .text          0x00000000        0x0 ./MCAL/MADC/MADC_Program.o
+ .data          0x00000000        0x0 ./MCAL/MADC/MADC_Program.o
+ .bss           0x00000000        0x0 ./MCAL/MADC/MADC_Program.o
+ .text.MADC_u16ADC_StartConversion
+                0x00000000        0x0 ./MCAL/MADC/MADC_Program.o
+ .text          0x00000000        0x0 ./HAL/SERVO_M/SERVO_Program.o
+ .data          0x00000000        0x0 ./HAL/SERVO_M/SERVO_Program.o
+ .bss           0x00000000        0x0 ./HAL/SERVO_M/SERVO_Program.o
+ .text.H_ServoStop
+                0x00000000        0x0 ./HAL/SERVO_M/SERVO_Program.o
+ .text.H_ServoStart
+                0x00000000        0x0 ./HAL/SERVO_M/SERVO_Program.o
+ .text.H_ServoSetAngle
+                0x00000000        0x0 ./HAL/SERVO_M/SERVO_Program.o
+ .text.H_ServoInit
+                0x00000000        0x0 ./HAL/SERVO_M/SERVO_Program.o
+ .text          0x00000000        0x0 ./HAL/KEY_PAD/HKPD_Program.o
+ .data          0x00000000        0x0 ./HAL/KEY_PAD/HKPD_Program.o
+ .bss           0x00000000        0x0 ./HAL/KEY_PAD/HKPD_Program.o
+ .text          0x00000000        0x0 ./HAL/HCLCD/HCLCD_Program.o
+ .data          0x00000000        0x0 ./HAL/HCLCD/HCLCD_Program.o
+ .bss           0x00000000        0x0 ./HAL/HCLCD/HCLCD_Program.o
+ .text.HCLCD_VidWriteChar_8Bits
+                0x00000000        0x0 ./HAL/HCLCD/HCLCD_Program.o
+ .text.HCLCD_VidWriteNumber_8Bits
+                0x00000000        0x0 ./HAL/HCLCD/HCLCD_Program.o
+ .text.HCLCD_VidWriteString_8Bits
+                0x00000000        0x0 ./HAL/HCLCD/HCLCD_Program.o
+ .text.HCLCD_VidWriteCommand_8Bits
+                0x00000000        0x0 ./HAL/HCLCD/HCLCD_Program.o
+ .text.HCLCD_VidSetPosition
+                0x00000000        0x0 ./HAL/HCLCD/HCLCD_Program.o
+ .text.HCLCD_Vid8Bits_Init
+                0x00000000        0x0 ./HAL/HCLCD/HCLCD_Program.o
+ .text          0x00000000        0x0 ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+ .data          0x00000000        0x0 ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+ .bss           0x00000000        0x0 ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+ .text          0x00000000        0x0 ./HAL/DC_MOTOR/DC_MOTOR.o
+ .data          0x00000000        0x0 ./HAL/DC_MOTOR/DC_MOTOR.o
+ .bss           0x00000000        0x0 ./HAL/DC_MOTOR/DC_MOTOR.o
+ .text          0x00000000        0x0 ./Free_RTOS/croutine.o
+ .data          0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss           0x00000000        0x0 ./Free_RTOS/croutine.o
+ .text.xCoRoutineRemoveFromEventList
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .text.vCoRoutineSchedule
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .text.vCoRoutineAddToDelayedList
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .text.xCoRoutineCreate
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.pxCurrentCoRoutine
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.uxTopCoRoutineReadyPriority
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.xLastTickCount
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.xPassedTicks
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.xCoRoutineTickCount
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.pxReadyCoRoutineLists
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.xDelayedCoRoutineList1
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.xDelayedCoRoutineList2
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.pxDelayedCoRoutineList
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.pxOverflowDelayedCoRoutineList
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .bss.xPendingReadyCoRoutineList
+                0x00000000        0x0 ./Free_RTOS/croutine.o
+ .text          0x00000000        0x0 ./Free_RTOS/heap_1.o
+ .data          0x00000000        0x0 ./Free_RTOS/heap_1.o
+ .bss           0x00000000        0x0 ./Free_RTOS/heap_1.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0x0 ./Free_RTOS/heap_1.o
+ .text.xPortGetFreeHeapSize
+                0x00000000        0x0 ./Free_RTOS/heap_1.o
+ .text          0x00000000        0x0 ./Free_RTOS/list.o
+ .data          0x00000000        0x0 ./Free_RTOS/list.o
+ .bss           0x00000000        0x0 ./Free_RTOS/list.o
+ .text          0x00000000        0x0 ./Free_RTOS/port.o
+ .data          0x00000000        0x0 ./Free_RTOS/port.o
+ .bss           0x00000000        0x0 ./Free_RTOS/port.o
+ .text.vPortEndScheduler
+                0x00000000        0x0 ./Free_RTOS/port.o
+ .text          0x00000000        0x0 ./Free_RTOS/queue.o
+ .data          0x00000000        0x0 ./Free_RTOS/queue.o
+ .bss           0x00000000        0x0 ./Free_RTOS/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000        0x0 ./Free_RTOS/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000        0x0 ./Free_RTOS/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000        0x0 ./Free_RTOS/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000        0x0 ./Free_RTOS/queue.o
+ .text.vQueueDelete
+                0x00000000        0x0 ./Free_RTOS/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000        0x0 ./Free_RTOS/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000        0x0 ./Free_RTOS/queue.o
+ .text          0x00000000        0x0 ./Free_RTOS/tasks.o
+ .bss           0x00000000        0x0 ./Free_RTOS/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000        0x0 ./Free_RTOS/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000        0x0 ./Free_RTOS/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000        0x0 ./Free_RTOS/tasks.o
+ .text.vTaskDelayUntil
+                0x00000000        0x0 ./Free_RTOS/tasks.o
+ .text.vTaskDelete
+                0x00000000        0x0 ./Free_RTOS/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000        0x0 ./Free_RTOS/tasks.o
+ .text          0x00000000        0x0 ./Free_RTOS/timers.o
+ .data          0x00000000        0x0 ./Free_RTOS/timers.o
+ .bss           0x00000000        0x0 ./Free_RTOS/timers.o
+ .text          0x00000000        0x0 ./main.o
+ .bss           0x00000000        0x0 ./main.o
+ .text.comparePasswords
+                0x00000000        0x0 ./main.o
+ .text          0x00000000        0x0 ./main_cfg.o
+ .data          0x00000000        0x0 ./main_cfg.o
+ .bss           0x00000000        0x0 ./main_cfg.o
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/TIMER2/TIMER2_Program.o
+LOAD ./MCAL/TIMER/TIMER_Program.o
+LOAD ./MCAL/MGIE/MGIE_Program.o
+LOAD ./MCAL/MDIO/MDIO_Program.o
+LOAD ./MCAL/MADC/MADC_Program.o
+LOAD ./HAL/SERVO_M/SERVO_Program.o
+LOAD ./HAL/KEY_PAD/HKPD_Program.o
+LOAD ./HAL/HCLCD/HCLCD_Program.o
+LOAD ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+LOAD ./HAL/DC_MOTOR/DC_MOTOR.o
+LOAD ./Free_RTOS/croutine.o
+LOAD ./Free_RTOS/heap_1.o
+LOAD ./Free_RTOS/list.o
+LOAD ./Free_RTOS/port.o
+LOAD ./Free_RTOS/queue.o
+LOAD ./Free_RTOS/tasks.o
+LOAD ./Free_RTOS/timers.o
+LOAD ./main.o
+LOAD ./main_cfg.o
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x29f8
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_9
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000090       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000090                __fixunssfsi
+ .text          0x000000e0      0x344 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000378                __subsf3
+                0x000003d2                __addsf3
+ .text          0x00000424      0x1ee c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x00000424                __mulsf3
+ .text          0x00000612       0x5a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00000612                __gesf2
+ .text          0x0000066c       0xa6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x0000066c                __fixsfsi
+ .text          0x00000712       0xee c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000712                __floatunsisf
+ .text          0x00000800       0x9e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000800                __clzsi2
+ .text          0x0000089e      0x1aa c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x0000089e                __pack_f
+ .text          0x00000a48       0xf0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000a48                __unpack_f
+ .text          0x00000b38       0xb2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000b38                __fpcmp_parts_f
+                0x00000bea                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__vector_4
+                0x00000bea       0x4e ./MCAL/TIMER2/TIMER2_Program.o
+                0x00000bea                __vector_4
+ .text.__vector_5
+                0x00000c38       0x4e ./MCAL/TIMER2/TIMER2_Program.o
+                0x00000c38                __vector_5
+ .text.__vector_11
+                0x00000c86       0x4e ./MCAL/TIMER/TIMER_Program.o
+                0x00000c86                __vector_11
+ .text.__vector_10
+                0x00000cd4       0x4e ./MCAL/TIMER/TIMER_Program.o
+                0x00000cd4                __vector_10
+ .text.MGIE_VidEnable
+                0x00000d22        0x8 ./MCAL/MGIE/MGIE_Program.o
+                0x00000d22                MGIE_VidEnable
+ .text.MDIO_Error_State_SetPinDirection
+                0x00000d2a      0x100 ./MCAL/MDIO/MDIO_Program.o
+                0x00000d2a                MDIO_Error_State_SetPinDirection
+ .text.MDIO_Error_State_SetPinValue
+                0x00000e2a      0x100 ./MCAL/MDIO/MDIO_Program.o
+                0x00000e2a                MDIO_Error_State_SetPinValue
+ .text.MDIO_Error_State_GetPinValue
+                0x00000f2a       0x46 ./MCAL/MDIO/MDIO_Program.o
+                0x00000f2a                MDIO_Error_State_GetPinValue
+ .text.MDIO_Error_State_SetNippleValue
+                0x00000f70       0x9a ./MCAL/MDIO/MDIO_Program.o
+                0x00000f70                MDIO_Error_State_SetNippleValue
+ .text.MADC_VidInit
+                0x0000100a       0x16 ./MCAL/MADC/MADC_Program.o
+                0x0000100a                MADC_VidInit
+ .text.MADC_VidADCInterruptEnable
+                0x00001020        0x4 ./MCAL/MADC/MADC_Program.o
+                0x00001020                MADC_VidADCInterruptEnable
+ .text.MADC_u16ADC_StartConversion_With_Interrupt
+                0x00001024       0x12 ./MCAL/MADC/MADC_Program.o
+                0x00001024                MADC_u16ADC_StartConversion_With_Interrupt
+ .text.MADC_u16ADCRead
+                0x00001036        0x8 ./MCAL/MADC/MADC_Program.o
+                0x00001036                MADC_u16ADCRead
+ .text.MADC_VidSetCallBack
+                0x0000103e        0xa ./MCAL/MADC/MADC_Program.o
+                0x0000103e                MADC_VidSetCallBack
+ .text.__vector_16
+                0x00001048       0x4e ./MCAL/MADC/MADC_Program.o
+                0x00001048                __vector_16
+ .text.HKPD_U8GetKeyPressed
+                0x00001096       0xc0 ./HAL/KEY_PAD/HKPD_Program.o
+                0x00001096                HKPD_U8GetKeyPressed
+ .text.HKPD_VidInit
+                0x00001156       0x80 ./HAL/KEY_PAD/HKPD_Program.o
+                0x00001156                HKPD_VidInit
+ .text.HCLCD_VidWriteChar_4Bits
+                0x000011d6       0x38 ./HAL/HCLCD/HCLCD_Program.o
+                0x000011d6                HCLCD_VidWriteChar_4Bits
+ .text.HCLCD_VidSendChar_4Bits
+                0x0000120e       0x12 ./HAL/HCLCD/HCLCD_Program.o
+                0x0000120e                HCLCD_VidSendChar_4Bits
+ .text.HCLCD_VidWriteNumber_4Bits
+                0x00001220       0xce ./HAL/HCLCD/HCLCD_Program.o
+                0x00001220                HCLCD_VidWriteNumber_4Bits
+ .text.HCLCD_VidWriteString_4Bits
+                0x000012ee       0x24 ./HAL/HCLCD/HCLCD_Program.o
+                0x000012ee                HCLCD_VidWriteString_4Bits
+ .text.HCLCD_VidWriteCommand_4Bits
+                0x00001312       0x38 ./HAL/HCLCD/HCLCD_Program.o
+                0x00001312                HCLCD_VidWriteCommand_4Bits
+ .text.HCLCD_VidSetPosition_4BitsMode
+                0x0000134a       0x2c ./HAL/HCLCD/HCLCD_Program.o
+                0x0000134a                HCLCD_VidSetPosition_4BitsMode
+ .text.HCLCD_Vid4Bits_Init
+                0x00001376       0x7e ./HAL/HCLCD/HCLCD_Program.o
+                0x00001376                HCLCD_Vid4Bits_Init
+ .text.H_DcMotorPotStop
+                0x000013f4        0x8 ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+                0x000013f4                H_DcMotorPotStop
+ .text.H_DcMotorPotStart
+                0x000013fc        0x8 ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+                0x000013fc                H_DcMotorPotStart
+ .text.H_DcMotorPotInit
+                0x00001404        0x8 ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+                0x00001404                H_DcMotorPotInit
+ .text.H_DcMotorStop
+                0x0000140c        0x8 ./HAL/DC_MOTOR/DC_MOTOR.o
+                0x0000140c                H_DcMotorStop
+ .text.H_DcMotorStart
+                0x00001414        0x8 ./HAL/DC_MOTOR/DC_MOTOR.o
+                0x00001414                H_DcMotorStart
+ .text.H_DcMotorInit
+                0x0000141c        0x8 ./HAL/DC_MOTOR/DC_MOTOR.o
+                0x0000141c                H_DcMotorInit
+ .text.vPortFree
+                0x00001424        0x2 ./Free_RTOS/heap_1.o
+                0x00001424                vPortFree
+ .text.pvPortMalloc
+                0x00001426       0x4a ./Free_RTOS/heap_1.o
+                0x00001426                pvPortMalloc
+ .text.vListInitialise
+                0x00001470       0x20 ./Free_RTOS/list.o
+                0x00001470                vListInitialise
+ .text.vListInitialiseItem
+                0x00001490        0x8 ./Free_RTOS/list.o
+                0x00001490                vListInitialiseItem
+ .text.vListInsertEnd
+                0x00001498       0x52 ./Free_RTOS/list.o
+                0x00001498                vListInsertEnd
+ .text.vListInsert
+                0x000014ea       0x6a ./Free_RTOS/list.o
+                0x000014ea                vListInsert
+ .text.vListRemove
+                0x00001554       0x50 ./Free_RTOS/list.o
+                0x00001554                vListRemove
+ .text.pxPortInitialiseStack
+                0x000015a4       0x90 ./Free_RTOS/port.o
+                0x000015a4                pxPortInitialiseStack
+ .text.xPortStartScheduler
+                0x00001634       0x6a ./Free_RTOS/port.o
+                0x00001634                xPortStartScheduler
+ .text.vPortYieldFromTick
+                0x0000169e       0xb2 ./Free_RTOS/port.o
+                0x0000169e                vPortYieldFromTick
+ .text.__vector_7
+                0x00001750        0x4 ./Free_RTOS/port.o
+                0x00001750                __vector_7
+ .text.vPortYield
+                0x00001754       0xb0 ./Free_RTOS/port.o
+                0x00001754                vPortYield
+ .text.prvCopyDataToQueue
+                0x00001804       0x82 ./Free_RTOS/queue.o
+ .text.prvUnlockQueue
+                0x00001886       0x78 ./Free_RTOS/queue.o
+ .text.xQueueGenericReceive
+                0x000018fe      0x17c ./Free_RTOS/queue.o
+                0x000018fe                xQueueGenericReceive
+ .text.xQueueGenericSend
+                0x00001a7a      0x12c ./Free_RTOS/queue.o
+                0x00001a7a                xQueueGenericSend
+ .text.xQueueCreate
+                0x00001ba6       0xb4 ./Free_RTOS/queue.o
+                0x00001ba6                xQueueCreate
+ .text.xQueueCreateCountingSemaphore
+                0x00001c5a       0x16 ./Free_RTOS/queue.o
+                0x00001c5a                xQueueCreateCountingSemaphore
+ .text.vTaskSuspendAll
+                0x00001c70        0xc ./Free_RTOS/tasks.o
+                0x00001c70                vTaskSuspendAll
+ .text.vTaskSwitchContext
+                0x00001c7c       0x84 ./Free_RTOS/tasks.o
+                0x00001c7c                vTaskSwitchContext
+ .text.vTaskSetTimeOutState
+                0x00001d00       0x16 ./Free_RTOS/tasks.o
+                0x00001d00                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00001d16       0x74 ./Free_RTOS/tasks.o
+                0x00001d16                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x00001d8a        0x8 ./Free_RTOS/tasks.o
+                0x00001d8a                vTaskMissedYield
+ .text.xTaskRemoveFromEventList
+                0x00001d92       0x78 ./Free_RTOS/tasks.o
+                0x00001d92                xTaskRemoveFromEventList
+ .text.vTaskIncrementTick
+                0x00001e0a      0x142 ./Free_RTOS/tasks.o
+                0x00001e0a                vTaskIncrementTick
+ .text.prvAddCurrentTaskToDelayedList
+                0x00001f4c       0x6a ./Free_RTOS/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x00001fb6       0x34 ./Free_RTOS/tasks.o
+                0x00001fb6                vTaskPlaceOnEventList
+ .text.xTaskResumeAll
+                0x00001fea       0xec ./Free_RTOS/tasks.o
+                0x00001fea                xTaskResumeAll
+ .text.vTaskDelay
+                0x000020d6       0x46 ./Free_RTOS/tasks.o
+                0x000020d6                vTaskDelay
+ .text.prvIdleTask
+                0x0000211c       0x5e ./Free_RTOS/tasks.o
+ .text.xTaskGenericCreate
+                0x0000217a      0x1e0 ./Free_RTOS/tasks.o
+                0x0000217a                xTaskGenericCreate
+ .text.vTaskStartScheduler
+                0x0000235a       0x52 ./Free_RTOS/tasks.o
+                0x0000235a                vTaskStartScheduler
+ .text.controlDoor
+                0x000023ac       0x38 ./main.o
+                0x000023ac                controlDoor
+ .text.displayDoorState
+                0x000023e4       0x36 ./main.o
+                0x000023e4                displayDoorState
+ .text.displayFireState
+                0x0000241a       0x3a ./main.o
+                0x0000241a                displayFireState
+ .text.displayEntryPasswordSecurity
+                0x00002454       0x5e ./main.o
+                0x00002454                displayEntryPasswordSecurity
+ .text.displayTemperatureValue
+                0x000024b2       0x44 ./main.o
+                0x000024b2                displayTemperatureValue
+ .text.taskDisplaySystemState
+                0x000024f6       0x10 ./main.o
+                0x000024f6                taskDisplaySystemState
+ .text.System_Init
+                0x00002506       0x6e ./main.o
+                0x00002506                System_Init
+ .text.ADC_SetNotification
+                0x00002574       0x14 ./main.o
+                0x00002574                ADC_SetNotification
+ .text.taskControlTemperature
+                0x00002588       0x5c ./main.o
+                0x00002588                taskControlTemperature
+ .text.taskControlGasLevel
+                0x000025e4       0x56 ./main.o
+                0x000025e4                taskControlGasLevel
+ .text.taskReadSensors
+                0x0000263a       0x62 ./main.o
+                0x0000263a                taskReadSensors
+ .text.taskGetPassword
+                0x0000269c       0xac ./main.o
+                0x0000269c                taskGetPassword
+ .text.main     0x00002748       0x9a ./main.o
+                0x00002748                main
+ .text.libgcc   0x000027e2       0x3e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x000027e2                __mulsi3
+ .text.libgcc   0x00002820       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002820                __udivmodsi4
+ .text.libgcc   0x00002864       0x38 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00002864                __prologue_saves__
+ .text.libgcc   0x0000289c       0x36 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x0000289c                __epilogue_restores__
+ .text.avr-libc.fplib
+                0x000028d2       0x40 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+                0x000028d2                round
+ .text.avr-libc.fplib
+                0x00002912       0x36 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                0x00002912                __fp_mintl
+ .text.avr-libc.fplib
+                0x00002948       0x1c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                0x0000294c                __fp_mpack_finite
+                0x00002948                __fp_mpack
+ .text.avr-libc.fplib
+                0x00002964       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00002964                __fp_split3
+                0x00002974                __fp_splitA
+ .text.avr-libc.fplib
+                0x000029a8        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000029a8                __fp_zero
+                0x000029aa                __fp_szero
+ .text.avr-libc
+                0x000029b6       0x12 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                0x000029b6                memcpy
+ .text.avr-libc
+                0x000029c8        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x000029c8                memset
+ .text.avr-libc
+                0x000029d6       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                0x000029d6                strncpy
+                0x000029f4                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000029f4        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000029f4                exit
+                0x000029f4                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000029f4        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000029f8                _etext = .
+
+.data           0x00800060      0x170 load address 0x000029f8
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x5 ./Free_RTOS/tasks.o
+ .data          0x00800065       0x3b ./main.o
+ .data          0x008000a0        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x008000a0                __thenan_sf
+ .data          0x008000a8      0x100 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x008000a8                __clz_tab
+ *(.data*)
+ .data.xNextTaskUnblockTime
+                0x008001a8        0x2 ./Free_RTOS/tasks.o
+ .data.system   0x008001aa       0x16 ./main_cfg.o
+                0x008001aa                system
+ *(.rodata)
+ *(.rodata*)
+ .rodata.KPD_u8SwitchVal
+                0x008001c0       0x10 ./HAL/KEY_PAD/HKPD_Program.o
+                0x008001c0                KPD_u8SwitchVal
+ *(.gnu.linkonce.d*)
+                0x008001d0                . = ALIGN (0x2)
+                0x008001d0                _edata = .
+                0x008001d0                PROVIDE (__data_end, .)
+
+.bss            0x008001d0      0x483
+                0x008001d0                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.xNextFreeByte
+                0x008001d0        0x2 ./Free_RTOS/heap_1.o
+ .bss.xHeap     0x008001d2      0x3e8 ./Free_RTOS/heap_1.o
+ .bss.pxCurrentTCB
+                0x008005ba        0x2 ./Free_RTOS/tasks.o
+                0x008005ba                pxCurrentTCB
+ .bss.xMissedYield
+                0x008005bc        0x1 ./Free_RTOS/tasks.o
+ .bss.xNumOfOverflows
+                0x008005bd        0x1 ./Free_RTOS/tasks.o
+ .bss.xTickCount
+                0x008005be        0x2 ./Free_RTOS/tasks.o
+ .bss.uxSchedulerSuspended
+                0x008005c0        0x1 ./Free_RTOS/tasks.o
+ .bss.uxTopReadyPriority
+                0x008005c1        0x1 ./Free_RTOS/tasks.o
+ .bss.uxMissedTicks
+                0x008005c2        0x1 ./Free_RTOS/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x008005c3        0x1 ./Free_RTOS/tasks.o
+ .bss.xSchedulerRunning
+                0x008005c4        0x1 ./Free_RTOS/tasks.o
+ .bss.uxTasksDeleted
+                0x008005c5        0x1 ./Free_RTOS/tasks.o
+ .bss.uxTaskNumber
+                0x008005c6        0x1 ./Free_RTOS/tasks.o
+ .bss.uxTopUsedPriority
+                0x008005c7        0x1 ./Free_RTOS/tasks.o
+ .bss.pxReadyTasksLists
+                0x008005c8       0x5a ./Free_RTOS/tasks.o
+ .bss.xDelayedTaskList1
+                0x00800622        0x9 ./Free_RTOS/tasks.o
+ .bss.xDelayedTaskList2
+                0x0080062b        0x9 ./Free_RTOS/tasks.o
+ .bss.pxDelayedTaskList
+                0x00800634        0x2 ./Free_RTOS/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x00800636        0x2 ./Free_RTOS/tasks.o
+ .bss.xPendingReadyList
+                0x00800638        0x9 ./Free_RTOS/tasks.o
+ .bss.xTasksWaitingTermination
+                0x00800641        0x9 ./Free_RTOS/tasks.o
+ .bss.u8_AdcChannelToRead
+                0x0080064a        0x1 ./main.o
+                0x0080064a                u8_AdcChannelToRead
+ *(COMMON)
+ COMMON         0x0080064b        0x2 ./MCAL/TIMER2/TIMER2_Program.o
+                0x0080064b                TIMER2_CallBack
+ COMMON         0x0080064d        0x2 ./MCAL/TIMER/TIMER_Program.o
+                0x0080064d                TIMER0_CallBack
+ COMMON         0x0080064f        0x2 ./MCAL/MADC/MADC_Program.o
+                0x0080064f                MADC_CallBack
+ COMMON         0x00800651        0x2 ./main.o
+                0x00800651                ADC_Semaphore
+                0x00800653                PROVIDE (__bss_end, .)
+                0x000029f8                __data_load_start = LOADADDR (.data)
+                0x00002b68                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800653        0x0
+                0x00800653                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800653                PROVIDE (__noinit_end, .)
+                0x00800653                _end = .
+                0x00800653                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x160
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000100       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000120       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000140       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x1b6
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000ab       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x000000cb       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x000000ed       0x24 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x00000111       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x00000130       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000014f       0x21 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x00000170       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x00000196       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x1f0d
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x0000102b      0x2b0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000012db      0x12c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001407      0x206 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x0000160d      0x117 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001724      0x2df c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001a03      0x251 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001c54      0x210 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00001e64       0xa9 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x10d2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x000007d2      0x17f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000951       0xad c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x000009fe      0x157 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000b55       0xc4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000c19      0x1c0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000dd9      0x154 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000f2d      0x13b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x00001068       0x6a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x1030
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000837      0x109 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000940       0x90 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000009d0      0x133 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000b03       0xa5 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000ba8      0x18a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000d32      0x14b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000e7d      0x137 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x00000fb4       0x7c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x180
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000c0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000000e0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000100       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000120       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000140       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000160       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2e6
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000270        0xa c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000027a       0x21 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x0000029b       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002bb       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002cb        0xb c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002d6       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x8f6
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000055e       0x7e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x000005dc       0x4c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00000628       0x94 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x000006bc      0x13e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x000007fa       0xac c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x000008a6       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(code.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_Semaphore                                     ./main.o
+ADC_SetNotification                               ./main.o
+HCLCD_Vid4Bits_Init                               ./HAL/HCLCD/HCLCD_Program.o
+                                                  ./main.o
+HCLCD_Vid8Bits_Init                               ./HAL/HCLCD/HCLCD_Program.o
+HCLCD_VidSendChar_4Bits                           ./HAL/HCLCD/HCLCD_Program.o
+HCLCD_VidSetPosition                              ./HAL/HCLCD/HCLCD_Program.o
+HCLCD_VidSetPosition_4BitsMode                    ./HAL/HCLCD/HCLCD_Program.o
+                                                  ./main.o
+HCLCD_VidWriteChar_4Bits                          ./HAL/HCLCD/HCLCD_Program.o
+HCLCD_VidWriteChar_8Bits                          ./HAL/HCLCD/HCLCD_Program.o
+HCLCD_VidWriteCommand_4Bits                       ./HAL/HCLCD/HCLCD_Program.o
+HCLCD_VidWriteCommand_8Bits                       ./HAL/HCLCD/HCLCD_Program.o
+HCLCD_VidWriteNumber_4Bits                        ./HAL/HCLCD/HCLCD_Program.o
+                                                  ./main.o
+HCLCD_VidWriteNumber_8Bits                        ./HAL/HCLCD/HCLCD_Program.o
+HCLCD_VidWriteString_4Bits                        ./HAL/HCLCD/HCLCD_Program.o
+                                                  ./main.o
+HCLCD_VidWriteString_8Bits                        ./HAL/HCLCD/HCLCD_Program.o
+HKPD_U8GetKeyPressed                              ./HAL/KEY_PAD/HKPD_Program.o
+                                                  ./main.o
+HKPD_VidInit                                      ./HAL/KEY_PAD/HKPD_Program.o
+                                                  ./main.o
+H_DcMotorInit                                     ./HAL/DC_MOTOR/DC_MOTOR.o
+                                                  ./main.o
+H_DcMotorPotInit                                  ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+                                                  ./main.o
+H_DcMotorPotStart                                 ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+                                                  ./main.o
+H_DcMotorPotStop                                  ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+                                                  ./main.o
+H_DcMotorStart                                    ./HAL/DC_MOTOR/DC_MOTOR.o
+                                                  ./main.o
+H_DcMotorStop                                     ./HAL/DC_MOTOR/DC_MOTOR.o
+                                                  ./main.o
+H_ServoInit                                       ./HAL/SERVO_M/SERVO_Program.o
+H_ServoSetAngle                                   ./HAL/SERVO_M/SERVO_Program.o
+H_ServoStart                                      ./HAL/SERVO_M/SERVO_Program.o
+H_ServoStop                                       ./HAL/SERVO_M/SERVO_Program.o
+KPD_u8SwitchVal                                   ./HAL/KEY_PAD/HKPD_Program.o
+MADC_CallBack                                     ./MCAL/MADC/MADC_Program.o
+MADC_VidADCInterruptEnable                        ./MCAL/MADC/MADC_Program.o
+                                                  ./main.o
+MADC_VidInit                                      ./MCAL/MADC/MADC_Program.o
+                                                  ./main.o
+MADC_VidSetCallBack                               ./MCAL/MADC/MADC_Program.o
+                                                  ./main.o
+MADC_u16ADCRead                                   ./MCAL/MADC/MADC_Program.o
+                                                  ./main.o
+MADC_u16ADC_StartConversion                       ./MCAL/MADC/MADC_Program.o
+MADC_u16ADC_StartConversion_With_Interrupt        ./MCAL/MADC/MADC_Program.o
+                                                  ./main.o
+MDIO_Error_State_GetPinValue                      ./MCAL/MDIO/MDIO_Program.o
+                                                  ./HAL/KEY_PAD/HKPD_Program.o
+MDIO_Error_State_SetNippleValue                   ./MCAL/MDIO/MDIO_Program.o
+                                                  ./HAL/HCLCD/HCLCD_Program.o
+MDIO_Error_State_SetPinDirection                  ./MCAL/MDIO/MDIO_Program.o
+                                                  ./main.o
+                                                  ./HAL/DC_MOTOR/DC_MOTOR.o
+                                                  ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+                                                  ./HAL/HCLCD/HCLCD_Program.o
+                                                  ./HAL/KEY_PAD/HKPD_Program.o
+                                                  ./HAL/SERVO_M/SERVO_Program.o
+MDIO_Error_State_SetPinValue                      ./MCAL/MDIO/MDIO_Program.o
+                                                  ./main.o
+                                                  ./HAL/DC_MOTOR/DC_MOTOR.o
+                                                  ./HAL/DC_MOTOR_POT/DC_MOTOR_POT.o
+                                                  ./HAL/HCLCD/HCLCD_Program.o
+                                                  ./HAL/KEY_PAD/HKPD_Program.o
+MDIO_Error_State_SetPortDirection                 ./MCAL/MDIO/MDIO_Program.o
+                                                  ./HAL/HCLCD/HCLCD_Program.o
+MDIO_Error_State_SetPortValue                     ./MCAL/MDIO/MDIO_Program.o
+                                                  ./HAL/HCLCD/HCLCD_Program.o
+MGIE_VidDisable                                   ./MCAL/MGIE/MGIE_Program.o
+MGIE_VidEnable                                    ./MCAL/MGIE/MGIE_Program.o
+                                                  ./main.o
+M_Pwm2Init                                        ./MCAL/TIMER2/TIMER2_Program.o
+M_Pwm2SetDutyCycle                                ./MCAL/TIMER2/TIMER2_Program.o
+                                                  ./HAL/SERVO_M/SERVO_Program.o
+M_Pwm2Start                                       ./MCAL/TIMER2/TIMER2_Program.o
+                                                  ./HAL/SERVO_M/SERVO_Program.o
+M_Pwm2Stop                                        ./MCAL/TIMER2/TIMER2_Program.o
+                                                  ./HAL/SERVO_M/SERVO_Program.o
+System_Init                                       ./main.o
+TIMER0_CallBack                                   ./MCAL/TIMER/TIMER_Program.o
+TIMER0_VidCTC_SetCallBack                         ./MCAL/TIMER/TIMER_Program.o
+TIMER0_VidInit                                    ./MCAL/TIMER/TIMER_Program.o
+TIMER0_VidOVF_SetCallBack                         ./MCAL/TIMER/TIMER_Program.o
+TIMER0_VidSetCTCValue                             ./MCAL/TIMER/TIMER_Program.o
+TIMER0_VidSetPreload                              ./MCAL/TIMER/TIMER_Program.o
+TIMER2_CallBack                                   ./MCAL/TIMER2/TIMER2_Program.o
+TIMER2_VidCTC_SetCallBack                         ./MCAL/TIMER2/TIMER2_Program.o
+TIMER2_VidInit                                    ./MCAL/TIMER2/TIMER2_Program.o
+                                                  ./HAL/SERVO_M/SERVO_Program.o
+TIMER2_VidOVF_SetCallBack                         ./MCAL/TIMER2/TIMER2_Program.o
+TIMER2_VidSetCTCValue                             ./MCAL/TIMER2/TIMER2_Program.o
+TIMER2_VidSetPreload                              ./MCAL/TIMER2/TIMER2_Program.o
+__addsf3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+__bad_interrupt                                   c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__bss_end                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__clz_tab                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+__clzsi2                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+__data_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__divsf3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                                  ./MCAL/TIMER2/TIMER2_Program.o
+__do_clear_bss                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                                                  ./main.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/heap_1.o
+                                                  ./Free_RTOS/croutine.o
+                                                  ./MCAL/MADC/MADC_Program.o
+                                                  ./MCAL/TIMER/TIMER_Program.o
+                                                  ./MCAL/TIMER2/TIMER2_Program.o
+__do_copy_data                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                                                  ./main_cfg.o
+                                                  ./main.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./HAL/KEY_PAD/HKPD_Program.o
+__epilogue_restores__                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+__fixsfsi                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+__fixunssfsi                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                                  ./main.o
+                                                  ./MCAL/TIMER2/TIMER2_Program.o
+__floatunsisf                                     c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                                  ./main.o
+                                                  ./HAL/SERVO_M/SERVO_Program.o
+__fp_mintl                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mintl.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+__fp_mpack                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+__fp_mpack_finite                                 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+__fp_split3                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+__fp_splitA                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+__fp_szero                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+__fp_zero                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+__fpcmp_parts_f                                   c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+__gesf2                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+__heap_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__init                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__mulsf3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                                  ./main.o
+                                                  ./MCAL/TIMER2/TIMER2_Program.o
+__mulsi3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                                                  ./main.o
+__pack_f                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+__prologue_saves__                                c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+__stack                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__subsf3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                                  ./MCAL/TIMER2/TIMER2_Program.o
+__thenan_sf                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                                                  ./HAL/SERVO_M/SERVO_Program.o
+__udivmodsi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                                                  ./HAL/HCLCD/HCLCD_Program.o
+__unpack_f                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+__vector_1                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_10                                       ./MCAL/TIMER/TIMER_Program.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_11                                       ./MCAL/TIMER/TIMER_Program.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_12                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_13                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_14                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_15                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_16                                       ./MCAL/MADC/MADC_Program.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_17                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_18                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_19                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_2                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_20                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_3                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_4                                        ./MCAL/TIMER2/TIMER2_Program.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_5                                        ./MCAL/TIMER2/TIMER2_Program.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_6                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_7                                        ./Free_RTOS/port.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_8                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_9                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_default                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vectors                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+_exit                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+comparePasswords                                  ./main.o
+controlDoor                                       ./main.o
+displayDoorState                                  ./main.o
+displayEntryPasswordSecurity                      ./main.o
+displayFireState                                  ./main.o
+displayTemperatureValue                           ./main.o
+exit                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+main                                              ./main.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+memcpy                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                                                  ./Free_RTOS/queue.o
+memset                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memset.o)
+                                                  ./Free_RTOS/tasks.o
+pvPortMalloc                                      ./Free_RTOS/heap_1.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+                                                  ./Free_RTOS/croutine.o
+pxCurrentCoRoutine                                ./Free_RTOS/croutine.o
+pxCurrentTCB                                      ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/port.o
+pxPortInitialiseStack                             ./Free_RTOS/port.o
+                                                  ./Free_RTOS/tasks.o
+round                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(round.o)
+                                                  ./main.o
+strncpy                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                                                  ./Free_RTOS/tasks.o
+system                                            ./main_cfg.o
+                                                  ./main.o
+taskControlGasLevel                               ./main.o
+taskControlTemperature                            ./main.o
+taskDisplaySystemState                            ./main.o
+taskGetPassword                                   ./main.o
+taskReadSensors                                   ./main.o
+u8_AdcChannelToRead                               ./main.o
+uxQueueMessagesWaiting                            ./Free_RTOS/queue.o
+uxQueueMessagesWaitingFromISR                     ./Free_RTOS/queue.o
+uxTaskGetNumberOfTasks                            ./Free_RTOS/tasks.o
+vCoRoutineAddToDelayedList                        ./Free_RTOS/croutine.o
+vCoRoutineSchedule                                ./Free_RTOS/croutine.o
+vListInitialise                                   ./Free_RTOS/list.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+                                                  ./Free_RTOS/croutine.o
+vListInitialiseItem                               ./Free_RTOS/list.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/croutine.o
+vListInsert                                       ./Free_RTOS/list.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/croutine.o
+vListInsertEnd                                    ./Free_RTOS/list.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/croutine.o
+vListRemove                                       ./Free_RTOS/list.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/croutine.o
+vPortEndScheduler                                 ./Free_RTOS/port.o
+                                                  ./Free_RTOS/tasks.o
+vPortFree                                         ./Free_RTOS/heap_1.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+vPortInitialiseBlocks                             ./Free_RTOS/heap_1.o
+vPortYield                                        ./Free_RTOS/port.o
+                                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+vPortYieldFromTick                                ./Free_RTOS/port.o
+vQueueDelete                                      ./Free_RTOS/queue.o
+vTaskDelay                                        ./Free_RTOS/tasks.o
+                                                  ./main.o
+vTaskDelayUntil                                   ./Free_RTOS/tasks.o
+vTaskDelete                                       ./Free_RTOS/tasks.o
+vTaskEndScheduler                                 ./Free_RTOS/tasks.o
+vTaskIncrementTick                                ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/port.o
+vTaskMissedYield                                  ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+vTaskPlaceOnEventList                             ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+vTaskSetTimeOutState                              ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+vTaskStartScheduler                               ./Free_RTOS/tasks.o
+                                                  ./main.o
+vTaskSuspendAll                                   ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+                                                  ./Free_RTOS/heap_1.o
+vTaskSwitchContext                                ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/port.o
+xCoRoutineCreate                                  ./Free_RTOS/croutine.o
+xCoRoutineRemoveFromEventList                     ./Free_RTOS/croutine.o
+xPortGetFreeHeapSize                              ./Free_RTOS/heap_1.o
+xPortStartScheduler                               ./Free_RTOS/port.o
+                                                  ./Free_RTOS/tasks.o
+xQueueCreate                                      ./Free_RTOS/queue.o
+xQueueCreateCountingSemaphore                     ./Free_RTOS/queue.o
+                                                  ./main.o
+xQueueGenericReceive                              ./Free_RTOS/queue.o
+                                                  ./main.o
+xQueueGenericSend                                 ./Free_RTOS/queue.o
+                                                  ./main.o
+xQueueGenericSendFromISR                          ./Free_RTOS/queue.o
+xQueueIsQueueEmptyFromISR                         ./Free_RTOS/queue.o
+xQueueIsQueueFullFromISR                          ./Free_RTOS/queue.o
+xQueueReceiveFromISR                              ./Free_RTOS/queue.o
+xTaskCheckForTimeOut                              ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+xTaskGenericCreate                                ./Free_RTOS/tasks.o
+                                                  ./main.o
+xTaskGetTickCount                                 ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/croutine.o
+xTaskGetTickCountFromISR                          ./Free_RTOS/tasks.o
+xTaskRemoveFromEventList                          ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+xTaskResumeAll                                    ./Free_RTOS/tasks.o
+                                                  ./Free_RTOS/queue.o
+                                                  ./Free_RTOS/heap_1.o

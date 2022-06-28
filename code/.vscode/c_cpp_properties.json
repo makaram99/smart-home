@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "avr-gcc",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:\\WinAVR-20100110\\bin\\avr-gcc.exe"
+        }
+    ],
+    "version": 4
+}

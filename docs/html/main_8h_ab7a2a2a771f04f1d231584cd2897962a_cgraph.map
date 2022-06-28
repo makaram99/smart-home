@@ -1,0 +1,17 @@
+<map id="System_Init" name="System_Init">
+<area shape="rect" id="node1" title="Initialize system peripherals." alt="" coords="5,280,128,312"/>
+<area shape="rect" id="node2" href="$main_8c.html#a66b5e90b0e1f79d6c325a1b886548dc7" title=" " alt="" coords="234,5,433,37"/>
+<area shape="rect" id="node3" href="$_d_c___m_o_t_o_r_8c.html#ae413fa860d71002e293b01f6a9ef14ba" title=" " alt="" coords="261,112,406,144"/>
+<area shape="rect" id="node4" href="$_m_d_i_o___interface_8h.html#a11bd2d50bf8602dc90ca4d10d4c73c71" title=" " alt="" coords="539,157,864,189"/>
+<area shape="rect" id="node5" href="$_d_c___m_o_t_o_r___p_o_t_8c.html#a91d5e42a5c5d0d6c68b01039cbb90e7b" title=" " alt="" coords="246,168,421,200"/>
+<area shape="rect" id="node6" href="$_h_c_l_c_d___interface_8h.html#af4a9a761dc70ed9aa646be32ec761e11" title=" " alt="" coords="230,224,437,256"/>
+<area shape="rect" id="node10" href="$_h_k_p_d___interface_8h.html#ace497aa0b9f9bfe8b5daf026af220753" title=" " alt="" coords="263,280,403,312"/>
+<area shape="rect" id="node11" href="$_m_a_d_c___interface_8h.html#a6433bca6aadf56f652c3ac09a9544eef" title=" " alt="" coords="176,337,491,389"/>
+<area shape="rect" id="node12" href="$_m_a_d_c___interface_8h.html#a2c806d4d2057dd373a96345d57967c9a" title=" " alt="" coords="188,413,479,445"/>
+<area shape="rect" id="node13" href="$_m_a_d_c___interface_8h.html#a8f8d3abd5328a876c90ee7f12d66bdf2" title=" " alt="" coords="262,469,405,501"/>
+<area shape="rect" id="node14" href="$_m_a_d_c___interface_8h.html#a93c879ee9a09128f24cadbf15badd055" title=" " alt="" coords="221,525,445,557"/>
+<area shape="rect" id="node15" href="$_m_g_i_e___interface_8h.html#a19b45a564eaf9f206f67b1c578557043" title=" " alt="" coords="248,581,419,613"/>
+<area shape="rect" id="node7" href="$_h_c_l_c_d___program_8c.html#a9d3e971db81da3db44bbb4584762efc9" title=" " alt="" coords="570,214,833,266"/>
+<area shape="rect" id="node8" href="$_m_d_i_o___interface_8h.html#a813f2a0e8e03ea911e782700dfb4d9ab" title=" " alt="" coords="923,211,1199,263"/>
+<area shape="rect" id="node9" href="$_m_d_i_o___interface_8h.html#a39c4c17cfa61addbc536cf78841300c9" title=" " alt="" coords="912,288,1211,320"/>
+</map>

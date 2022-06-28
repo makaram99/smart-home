@@ -1,0 +1,28 @@
+
+#ifndef HCLCD_PRIVATE_H_
+#define HCLCD_PRIVATE_H_
+
+/*Function set Modes*/
+#define FUNCTION_SET_8BITS_2LINES      0b00111000
+#define FUNCTION_SET_8BITS_1LINES      0b00110100
+#define FUNCTION_SET_4BITS_2LINES      0b00101000
+#define FUNCTION_SET_4BITS_1LINES      0b00100100
+
+/*Display on/off Modes*/
+#define DISPLAY_ON_CURSOR_ON_BLINKING_ON      0b00001111
+#define DISPLAY_ON_CURSOR_ON_BLINKING_OFF     0b00001110
+#define DISPLAY_ON_CURSOR_OFF                 0b00001100
+#define DISPLAY_OFF                           0b00001000
+
+/*ENTRY MODE*/
+#define ENTRY_MODE_SET_INCREASE_WITH_SHIFT       0b00000111
+#define ENTRY_MODE_SET_INCREASE                  0b00000110
+#define ENTRY_MODE_SET_DECREASE_WITH_SHIFT       0b00000101
+#define ENTRY_MODE_SET_DECREASE                  0b00000100
+
+#define LINE1_OFFSET_ADDRESS    128
+#define LINE2_OFFSET_ADDRESS    192
+
+void HCLCD_VidWriteChar_4Bits(u8 Copy_u8Data);
+
+#endif

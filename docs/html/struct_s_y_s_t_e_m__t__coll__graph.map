@@ -1,0 +1,7 @@
+<map id="SYSTEM_t" name="SYSTEM_t">
+<area shape="rect" id="node1" title="This is the structure that holds the system&#39;s data that is used to control the system and display it ..." alt="" coords="221,225,340,257"/>
+<area shape="rect" id="node2" href="$struct_p_a_s_s_w_o_r_d__t.html" title="This is the structure that holds the system&#39;s password data." alt="" coords="5,125,156,157"/>
+<area shape="rect" id="node3" href="$struct_s_y_s_t_e_m___i_n_p_u_t_s__t.html" title=" " alt="" coords="181,125,381,157"/>
+<area shape="rect" id="node4" href="$struct_s_e_n_s_o_r__t.html" title="This is the structure that holds the system&#39;s sensors data." alt="" coords="221,5,341,37"/>
+<area shape="rect" id="node5" href="$struct_f_l_a_g__t.html" title="This is the structure that holds the system&#39;s state flags." alt="" coords="405,125,495,157"/>
+</map>

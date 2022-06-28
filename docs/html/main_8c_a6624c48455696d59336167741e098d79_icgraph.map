@@ -1,0 +1,5 @@
+<map id="controlDoor" name="controlDoor">
+<area shape="rect" id="node1" title="It controls the door of the house. Open the door if the user enters the correct password...." alt="" coords="340,5,463,37"/>
+<area shape="rect" id="node2" href="$main_8c.html#aa6c0349eb07719d439093f0c552acf1c" title="Task to get the password from the keypad." alt="" coords="117,5,292,37"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,5,69,37"/>
+</map>
