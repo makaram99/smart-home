@@ -48,7 +48,7 @@ We've worked on the application layer ([code/main.c](code/main.c), [code/main.h]
 
 The project is **open source** and you can use it for your own projects.
 
-You can test it **without any Hardware**, it can be simulated as will be discussed in the next sections. So, you don't need any hardware to run this operating system.
+You can test it **without any Hardware**, it can be simulated as will be discussed in the next sections. So, you don't need any hardware to run this project.
 
 ## Table of Contents
 
@@ -140,7 +140,19 @@ The System has 5 tasks. These are:
 
 ### Code
 
-To develop the project, you need to:
+**The most insteresting files for us are:**
+
+* [code/main.c](code/main.c): Contains main function, tasks implementations, functions used by either main or tasks.
+* [code/main.h](code/main.h): Contains prototypes of tasks and functions used in main.c.
+* [code/main_cfg.](code/main_cfg.c): Contains system configurations such as:
+  
+  * Critical values of gas and temperature sensors, 
+  * Fire, password, buzzer, and door flags,
+  * etc
+  
+* [code/main_cfg.h](code/main_cfg.h): Contains typedefs and macros definitions used inside [code/main_cfg.c](code/main_cfg.c) and [code/main.c](code/main.c)
+
+**To develop the project, you need to:**
 
 * YOU MUST HAVE **eclipse SDK** installed on your computer.
 * Open the **code** directory.
@@ -149,7 +161,7 @@ To develop the project, you need to:
 * Enjoy the development.
 * You can build the project by clicking on **CTRL+B** key on keyboard.
 
-**NOTE**: I've documented the code as much as I can. So, I hope you will understand the code.
+**NOTE**: The code is documented as much as possible. Hope you will understand the code.
 
 ### Simulation
 
