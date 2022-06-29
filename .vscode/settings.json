@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "Abdelgawad",
+        "Abdulla",
+        "AMAN",
+        "Aziz",
+        "cproject",
+        "Ghobrial",
+        "HCLCD",
+        "HKPD",
+        "MADC",
+        "Mannaa",
+        "MDIO",
+        "MGIE",
+        "microcontroller",
+        "PORTA",
+        "PORTC",
+        "RAMY"
+    ],
+    "files.associations": {
+        "freertos.h": "c",
+        "main.h": "c",
+        "lstd_types.h": "c",
+        "lbit_math.h": "c"
+    }
+}

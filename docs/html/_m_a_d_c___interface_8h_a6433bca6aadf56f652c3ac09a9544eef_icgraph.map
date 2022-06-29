@@ -1,0 +1,6 @@
+<map id="MADC_u16ADC_StartConversion_With_Interrupt" name="MADC_u16ADC_StartConversion_With_Interrupt">
+<area shape="rect" id="node1" title=" " alt="" coords="343,23,657,75"/>
+<area shape="rect" id="node2" href="$main_8c.html#ab7a2a2a771f04f1d231584cd2897962a" title="Initialize system peripherals." alt="" coords="145,5,267,37"/>
+<area shape="rect" id="node4" href="$main_8c.html#a495950b992803e6abd9b5874536b0cbe" title="Task to read the sensors." alt="" coords="117,61,295,93"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,33,69,65"/>
+</map>

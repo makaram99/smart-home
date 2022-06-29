@@ -1,0 +1,16 @@
+<map id="code/MCAL" name="code/MCAL">
+<area shape="rect" id="node1" href="dir_6fdaa1349ea38cfd2bc45dd7cdcd13e9.html" title="LIB" alt="" coords="159,260,231,308"/>
+<area shape="rect" id="node3" href="dir_846d4bf0d22b3e61de6dd474bce035a1.html" title="MADC" alt="" coords="155,68,234,116"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000010_000008.html" title="2" alt="" coords="197,232,209,252"/>
+<area shape="rect" id="node4" href="dir_c3185d75f6cabef2ea4abeadc8e64522.html" title="MDIO" alt="" coords="53,164,125,212"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000011_000008.html" title="2" alt="" coords="155,232,167,252"/>
+<area shape="rect" id="node5" href="dir_c0a0e5d8a0835b4e933758bc365efa4d.html" title="MGIE" alt="" coords="259,68,331,116"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000012_000008.html" title="2" alt="" coords="217,238,229,258"/>
+<area shape="rect" id="node6" href="dir_88c55a0e41c61833f22c2988adc11bb3.html" title="TIMER" alt="" coords="355,68,437,116"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000013_000008.html" title="2" alt="" coords="232,243,244,263"/>
+<area shape="rect" id="node7" href="dir_f1aef152a9a50cbbf4cae3cb96a5f1ac.html" title="TIMER2" alt="" coords="37,68,131,116"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000014_000008.html" title="2" alt="" coords="180,230,192,250"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000014_000011.html" title="1" alt="" coords="89,135,101,155"/>
+<area shape="rect" id="clust2" href="dir_69dbb231689489784b83133d29119792.html" alt="" coords="27,57,549,223"/>
+<area shape="rect" id="clust1" href="dir_050edd66366d13764f98250ef6db77f6.html" title="code" alt="" coords="16,16,560,319"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="displayDoorState" name="displayDoorState">
+<area shape="rect" id="node1" title="Display the current state of the door: open or closed." alt="" coords="397,5,568,37"/>
+<area shape="rect" id="node2" href="$main_8c.html#abdca183aa5df5ae25bc518cbcd225d43" title="Task to display the system&#39;s data." alt="" coords="117,5,349,37"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,5,69,37"/>
+</map>

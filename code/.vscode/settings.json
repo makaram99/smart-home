@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "dc_motor_pot.h": "c",
+        "lbit_math.h": "c",
+        "main_cfg.h": "c",
+        "main.h": "c",
+        "delay.h": "c",
+        "mgie_interface.h": "c",
+        "lstd_types.h": "c"
+    }
+}

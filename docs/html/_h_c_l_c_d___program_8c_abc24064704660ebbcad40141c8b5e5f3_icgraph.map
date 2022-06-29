@@ -1,0 +1,9 @@
+<map id="HCLCD_VidWriteString_4Bits" name="HCLCD_VidWriteString_4Bits">
+<area shape="rect" id="node1" title=" " alt="" coords="729,79,952,131"/>
+<area shape="rect" id="node2" href="$main_8c.html#a660f4cda4c5d0376959f9835fd29d06d" title="Display the current state of the door: open or closed." alt="" coords="454,5,625,37"/>
+<area shape="rect" id="node5" href="$main_8c.html#a194f4b4324389211e4bc296b843e5a2c" title="Display the security of the house (Password)." alt="" coords="397,61,681,93"/>
+<area shape="rect" id="node6" href="$main_8c.html#afbc205b686832af6c6e4a7e15b65885d" title="Checking if the fire alarm is on or not." alt="" coords="459,117,620,149"/>
+<area shape="rect" id="node7" href="$main_8c.html#abdfced13ace8ce2d460e174beab156ce" title="Display the current temperature of the room." alt="" coords="417,173,661,205"/>
+<area shape="rect" id="node3" href="$main_8c.html#abdca183aa5df5ae25bc518cbcd225d43" title="Task to display the system&#39;s data." alt="" coords="117,89,349,121"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,89,69,121"/>
+</map>

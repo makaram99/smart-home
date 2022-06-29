@@ -1,0 +1,9 @@
+<map id="taskGetPassword" name="taskGetPassword">
+<area shape="rect" id="node1" title="Task to get the password from the keypad." alt="" coords="5,88,180,120"/>
+<area shape="rect" id="node2" href="$main_8c.html#a85460910437586876c4e4d8c2b8dc528" title="Compare the password entered by the user with the default password. @retaur If the password is correc..." alt="" coords="255,5,450,37"/>
+<area shape="rect" id="node3" href="$main_8c.html#a6624c48455696d59336167741e098d79" title="It controls the door of the house. Open the door if the user enters the correct password...." alt="" coords="291,61,414,93"/>
+<area shape="rect" id="node4" href="$task_8h.html#a3fc5adc340b17cb07c12ffa90d7bb8f3" title=" " alt="" coords="613,87,739,119"/>
+<area shape="rect" id="node5" href="$_h_k_p_d___interface_8h.html#a18b297b574d5499614f981b7aabef37d" title=" " alt="" coords="228,168,477,200"/>
+<area shape="rect" id="node6" href="$_m_d_i_o___interface_8h.html#a3680a2b3bb5e4287b0c516a546401a88" title=" " alt="" coords="525,155,827,187"/>
+<area shape="rect" id="node7" href="$_m_d_i_o___interface_8h.html#a39c4c17cfa61addbc536cf78841300c9" title=" " alt="" coords="527,211,825,243"/>
+</map>

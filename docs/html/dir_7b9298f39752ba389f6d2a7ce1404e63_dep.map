@@ -1,0 +1,9 @@
+<map id="code/HAL/DC_MOTOR" name="code/HAL/DC_MOTOR">
+<area shape="rect" id="node1" href="dir_7b9298f39752ba389f6d2a7ce1404e63.html" title="DC_MOTOR" alt="" coords="27,57,160,105"/>
+<area shape="rect" id="node2" href="dir_69dbb231689489784b83133d29119792.html" title="MCAL" alt="" coords="17,153,93,201"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000003_000009.html" title="2" alt="" coords="73,130,85,150"/>
+<area shape="rect" id="node3" href="dir_6fdaa1349ea38cfd2bc45dd7cdcd13e9.html" title="LIB" alt="" coords="56,249,128,297"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000003_000008.html" title="1" alt="" coords="103,223,115,243"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000009_000008.html" title="10" alt="" coords="73,219,95,239"/>
+<area shape="rect" id="clust1" href="dir_f047c63cbf19c72a24b10e8483877116.html" title="HAL" alt="" coords="16,16,171,116"/>
+</map>

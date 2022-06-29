@@ -1,0 +1,11 @@
+<map id="vTaskDelay" name="vTaskDelay">
+<area shape="rect" id="node1" title=" " alt="" coords="729,165,855,197"/>
+<area shape="rect" id="node2" href="$main_8c.html#a6624c48455696d59336167741e098d79" title="It controls the door of the house. Open the door if the user enters the correct password...." alt="" coords="478,5,601,37"/>
+<area shape="rect" id="node3" href="$main_8c.html#aa6c0349eb07719d439093f0c552acf1c" title="Task to get the password from the keypad." alt="" coords="146,59,321,91"/>
+<area shape="rect" id="node5" href="$main_8c.html#a194f4b4324389211e4bc296b843e5a2c" title="Display the security of the house (Password)." alt="" coords="397,112,681,144"/>
+<area shape="rect" id="node6" href="$main_8c.html#abdca183aa5df5ae25bc518cbcd225d43" title="Task to display the system&#39;s data." alt="" coords="117,155,349,187"/>
+<area shape="rect" id="node7" href="$main_8c.html#ae35abd391dde790fdce55f9b1cbe635a" title="Task to control the gas level." alt="" coords="132,211,335,243"/>
+<area shape="rect" id="node8" href="$main_8c.html#abc6aa21da21e7c82ddc0d1e4961cc9f7" title="Task to control the temperature." alt="" coords="118,267,349,299"/>
+<area shape="rect" id="node9" href="$main_8c.html#a495950b992803e6abd9b5874536b0cbe" title="Task to read the sensors." alt="" coords="451,320,628,352"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,211,69,243"/>
+</map>
